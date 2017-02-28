@@ -1,4 +1,4 @@
-package reflection;
+package reflection.junit;
 
 public class ReflectionApp {
 

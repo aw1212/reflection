@@ -1,6 +1,10 @@
-package reflection;
+package reflection.junit;
 
 import java.util.Objects;
+
+import reflection.junit.BeforeTest;
+import reflection.junit.ReflectionApp;
+import reflection.junit.TestApp;
 
 public class ReflectionAppTest {
 
